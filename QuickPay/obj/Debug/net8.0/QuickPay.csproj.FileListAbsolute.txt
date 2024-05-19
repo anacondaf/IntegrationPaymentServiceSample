@@ -1,0 +1,15 @@
+D:\TestProjects\payment\c#\QuickPay\bin\Debug\net8.0\QuickPay.exe
+D:\TestProjects\payment\c#\QuickPay\bin\Debug\net8.0\QuickPay.deps.json
+D:\TestProjects\payment\c#\QuickPay\bin\Debug\net8.0\QuickPay.runtimeconfig.json
+D:\TestProjects\payment\c#\QuickPay\bin\Debug\net8.0\QuickPay.dll
+D:\TestProjects\payment\c#\QuickPay\bin\Debug\net8.0\QuickPay.pdb
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.AssemblyInfoInputs.cache
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.AssemblyInfo.cs
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.csproj.CoreCompileInputs.cache
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.sourcelink.json
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.dll
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\refint\QuickPay.dll
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.pdb
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\QuickPay.genruntimeconfig.cache
+D:\TestProjects\payment\c#\QuickPay\obj\Debug\net8.0\ref\QuickPay.dll

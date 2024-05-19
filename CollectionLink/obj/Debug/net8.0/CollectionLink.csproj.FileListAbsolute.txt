@@ -1,0 +1,15 @@
+D:\TestProjects\payment\c#\CollectionLink\bin\Debug\net8.0\CollectionLink.exe
+D:\TestProjects\payment\c#\CollectionLink\bin\Debug\net8.0\CollectionLink.deps.json
+D:\TestProjects\payment\c#\CollectionLink\bin\Debug\net8.0\CollectionLink.runtimeconfig.json
+D:\TestProjects\payment\c#\CollectionLink\bin\Debug\net8.0\CollectionLink.dll
+D:\TestProjects\payment\c#\CollectionLink\bin\Debug\net8.0\CollectionLink.pdb
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.AssemblyInfoInputs.cache
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.AssemblyInfo.cs
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.csproj.CoreCompileInputs.cache
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.sourcelink.json
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.dll
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\refint\CollectionLink.dll
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.pdb
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\CollectionLink.genruntimeconfig.cache
+D:\TestProjects\payment\c#\CollectionLink\obj\Debug\net8.0\ref\CollectionLink.dll

@@ -1,0 +1,6 @@
+@OnetimePayment_HostAddress = http://localhost:5074
+
+GET {{OnetimePayment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
